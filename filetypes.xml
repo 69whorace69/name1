@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping pattern="ja" type="JAVA" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="s" type="PLAIN_TEXT" />
     </extensionMap>
